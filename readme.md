@@ -1,4 +1,3 @@
-Certainly! Here's how you can add instructions on running your application with Docker to your README.md file:
 
 ---
 
@@ -45,10 +44,6 @@ To run the application using Docker, follow these steps:
 - Navigate to `/people` to view a list of Star Wars characters.
 - Navigate to `/films` to view a list of Star Wars films.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-These instructions will guide users on how to run your application with Docker. Make sure to replace `my-star-wars-app` with your desired image name.
